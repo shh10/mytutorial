@@ -1,4 +1,4 @@
-<!doctype="html">
+<!doctype="html">Whaddis?
 
 <html lang="en">
 <head>
